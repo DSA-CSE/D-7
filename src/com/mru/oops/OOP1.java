@@ -1,7 +1,5 @@
 package com.mru.oops;
 
-import javax.print.attribute.SetOfIntegerSyntax;
-
 class Parent1{
 	int x = 200;
 }
