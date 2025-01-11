@@ -21,10 +21,10 @@ class subChild extends Child11{
 public class OOP2 {
 
 	public static void main(String[] args) {
-		subChild obj1 = new subChild();
-		obj1.m1();
-		obj1.m2();
-		obj1.m3();
+		subChild obj = new subChild();
+		obj.m1();
+		obj.m2();
+		obj.m3();
 
 	}
 
